@@ -3,6 +3,12 @@ for, noteworthy changes.
 
 {{$NEXT}}
 
+  [OTHER]
+
+  - Replaced all uses of Sub::Name with Sub::Util, since the latter is part of
+    core as of Perl 5.22.
+
+
 2.1804   2016-06-02
 
   [OTHER]
